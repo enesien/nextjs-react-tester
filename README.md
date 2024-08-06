@@ -22,7 +22,7 @@ This exercise should take 30 minutes to 1 hour to complete.
 1. Run `npm run dev` to serve the project locally
 1. Open `http://localhost:3000` in your browser
 1. Implement the requirements below
-1. Commit the changes and provide the link to management
+1. Commit the changes to your fork and provide the link to management (please don't do a PR to the original repo)
 
 ### Requirements
 
