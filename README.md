@@ -13,7 +13,7 @@ Project to test new candidates with basic app requirements for a Next.js job.
 
 Finish building out a simple company list for this customer-facing application.
 
-This exercise should take 30 minutes to 1 hour to complete.
+This exercise should take 30 minutes to 1 hour to complete, but you may take longer if needed.
 
 ### Setup & Submission
 
@@ -43,4 +43,8 @@ This exercise should take 30 minutes to 1 hour to complete.
    - The footer should have a slightly darker background than the table
    - The text in the footer should be capitalized and slightly bolded
 
-#### You are free to choose what data points are displayed and how it is styled/positioned, but it should be easy to read as a <ins>customer-facing</ins> application.
+### Other Notes
+
+- You are free to choose what data points are displayed and how it is styled/positioned, but it should be easy to read as a <ins>customer-facing</ins> application.
+- We value original solutions. While you can use any resources for reference, the implementation should reflect your own understanding and coding style.
+- Remember that Next.js offers both client-side and server-side capabilities. Think about where certain operations might be best performed.
